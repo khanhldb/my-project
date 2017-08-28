@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+.CV{
+    width: 21cm;
+    background-color: #424242;
+    color: white;
+}
+.A4{
+    width: 21cm;
+    margin: 0cm 0cm 6cm 6cm;
+}
+
+.Main{
+    width: 15.5cm;
+    float: left;
+    background-color: #D6D5D5;
+}
+
+.Personal{
+    width: 5.5cm;
+    height: 46.4cm;
+    float: right;
+    background-color: #424242;
+}
+
+
+.name {
+    margin: 1cm 1cm 0.5cm 0.5cm;
+    color: white;
+}
+
+#Contact {
+    float:left;
+    color: white;
+}
